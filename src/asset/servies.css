@@ -1,0 +1,33 @@
+/* 
+section{
+    display: flex;
+    border: 3px solid rgb(235, 232, 232);
+    background-color: white;
+    padding: 3rem;
+    margin: auto;
+}
+container section a{
+    text-decoration: none;
+}
+.the_servise_parti{
+    display: flex;justify-content: center;
+
+}
+@media(max-width:768px){
+    section{
+        display: flex;
+        border: 3px solid rgb(235, 232, 232);
+        background-color: white;
+        padding: 3rem;
+        margin: auto;
+    }
+    container section a{
+        text-decoration: none;
+    }
+    .the_servise_parti{
+        display: flex;justify-content: center;
+    
+    }
+
+
+} */

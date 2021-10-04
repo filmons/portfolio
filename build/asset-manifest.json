@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Filmon-seare/static/css/main.5d6622b1.chunk.css",
+    "main.js": "/Filmon-seare/static/js/main.ca2b5f25.chunk.js",
+    "main.js.map": "/Filmon-seare/static/js/main.ca2b5f25.chunk.js.map",
+    "runtime-main.js": "/Filmon-seare/static/js/runtime-main.4b6d3eba.js",
+    "runtime-main.js.map": "/Filmon-seare/static/js/runtime-main.4b6d3eba.js.map",
+    "static/css/2.9927603d.chunk.css": "/Filmon-seare/static/css/2.9927603d.chunk.css",
+    "static/js/2.b6198208.chunk.js": "/Filmon-seare/static/js/2.b6198208.chunk.js",
+    "static/js/2.b6198208.chunk.js.map": "/Filmon-seare/static/js/2.b6198208.chunk.js.map",
+    "index.html": "/Filmon-seare/index.html",
+    "static/css/2.9927603d.chunk.css.map": "/Filmon-seare/static/css/2.9927603d.chunk.css.map",
+    "static/css/main.5d6622b1.chunk.css.map": "/Filmon-seare/static/css/main.5d6622b1.chunk.css.map",
+    "static/js/2.b6198208.chunk.js.LICENSE.txt": "/Filmon-seare/static/js/2.b6198208.chunk.js.LICENSE.txt",
+    "static/media/Avatar3.fd85c9a9.png": "/Filmon-seare/static/media/Avatar3.fd85c9a9.png",
+    "static/media/Bateme.9decca57.png": "/Filmon-seare/static/media/Bateme.9decca57.png",
+    "static/media/Home_mobil.4487b64b.png": "/Filmon-seare/static/media/Home_mobil.4487b64b.png",
+    "static/media/abut.8dbd0f87.png": "/Filmon-seare/static/media/abut.8dbd0f87.png",
+    "static/media/App.css": "/Filmon-seare/static/media/grid.0cfa2579.jpg",
+    "static/media/logo.e36b132e.png": "/Filmon-seare/static/media/logo.e36b132e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b6d3eba.js",
+    "static/css/2.9927603d.chunk.css",
+    "static/js/2.b6198208.chunk.js",
+    "static/css/main.5d6622b1.chunk.css",
+    "static/js/main.ca2b5f25.chunk.js"
+  ]
+}
