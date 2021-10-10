@@ -14,9 +14,9 @@ const abutMe = () => {
 					<h1 className="about-heading"> About me </h1>
 					<p>
 						Hello! I am Filmon. I have been developing websites for over 1
-						years. I'm Full-Stack Web Developer. Technologies I use is
-						MERN(MySql, Express, ReactJS and NodeJS). I create responsive
-						websites that are displayed on all devices desktops and smartphones.
+						year. I'm Full-Stack Web Developer.The technologies that I use is 
+						(MySql, Express, ReactJS and NodeJS). I create responsive
+						websites that can be  displayed on all devices, desktops and smartphones.
 					</p>
 				</div>
 			</div>
