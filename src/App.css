@@ -283,6 +283,11 @@ nav ul li{
     color: var(--primery-orange);
     font-weight: 900;
 }
+.timeline-content a{
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+
+}
 @media(max-width: 768px){
 .experiance-wrapper{
     padding-left: 0;
@@ -604,3 +609,5 @@ color: var(--primery-success);
 footer p{
     margin-bottom: 0;
 }
+
+
