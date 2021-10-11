@@ -11,8 +11,8 @@ const Formation = () => {
 					<div className="timeline-block timeline-block-right">
 						<div className="marker"></div>
 						<div className="timeline-content">
-							<h3>21 décembre 2020 - 31 juillet 2021</h3>
-							<h3>Développeur Web et web mobile full-stack level bac + 2 </h3>
+							<h3> December 21, 2020 - July 31, 2021 </h3>
+							<h3> Full-stack web and mobile web developer, bac + 2 level </h3>
 							<p>
 								{" "}
 								• Layout an application • Create a static and adaptable web user
@@ -26,7 +26,7 @@ const Formation = () => {
 					<div className="timeline-block timeline-block-left">
 						<div className="marker"></div>
 						<div className="timeline-content">
-							<h3>30-June - 2021</h3>
+							<h3>June-30- 2021</h3>
 							<h3>EQPR-European Qualifications Passport for Refugee</h3>
 							<p>
 								{" "}
@@ -41,7 +41,8 @@ const Formation = () => {
 								language proficiency2 (in cases where it is possible to
 								substantiate it). The explanatory part contains information
 								about the status of the document and a short description of the
-								Project.<a href="http://www.coe.int/eqpr">click here to read more</a>
+								Project.
+								<a href="http://www.coe.int/eqpr">click here to read more</a>
 							</p>
 						</div>
 					</div>
@@ -49,7 +50,7 @@ const Formation = () => {
 					<div className="timeline-block timeline-block-right">
 						<div className="marker"></div>
 						<div className="timeline-content">
-							<h3>August 26 - 2021</h3>
+							<h3>August- 26 - 2021</h3>
 							<h3>Agile method of management and project initiation</h3>
 							<p>
 								{" "}
@@ -99,7 +100,6 @@ const Formation = () => {
 							<h3> baccalaureate</h3>
 							<p>
 								{" "}
-                               
 								Lorem Ipsum est simplement du faux texte employé dans la
 								composition et la mise en page avant impression. Le Lorem Ipsum
 								est le faux texte standard de l'imprimerie depuis les années

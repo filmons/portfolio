@@ -1,5 +1,5 @@
 import React from "react";
-import Eglise from "../component/images/Home_mobil.png";
+
 import Batem from "../component/images/Bateme.png";
 //import Home from "../component/images/simplon.png"
 // FONT AWSOME IMPORT
@@ -16,7 +16,8 @@ const Portfolio = () => {
 			<>
 				<img
 					className="image-portfolio-popupbox-eglise"
-					src={Eglise}
+					
+					src={Batem}
 					alt="paroise clon projet..."
 				/>
 				<p>
@@ -206,7 +207,7 @@ const Portfolio = () => {
 
 				<div className=" image-box-wrapper d-flex   justify-content-center">
 					<div className="portfolio-image-box" onClick={OpenPopupboxNetflix}>
-						<img className="portfolio-image-eglise" src={Eglise} alt="portofolilo..." />
+						<img className="portfolio-image-eglise" src={Batem} alt="portofolilo..." />
 						<div className="overflow"></div>
 						<FontAwesomeIcon className="portfolio-icon" icon={faSearchPlus} />
 					</div>

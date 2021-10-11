@@ -280,7 +280,7 @@ nav ul li{
 }
 .timeline-content h3{
     margin-top: 0.3125rem;
-    color: var(--primery-red);
+    color: var(--primery-orange);
     font-weight: 900;
 }
 @media(max-width: 768px){
