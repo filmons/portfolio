@@ -43,7 +43,7 @@ const Serviecs = () => {
 							</div>
 							<h3> back end developer</h3>
 							<p>
-								I am using Node. js and Express in the backend. It is a
+								I am using Node. js and Express in the backend and Mysql as database. It is a
 								lightweight, scalable and open source language platform that
 								also makes it easy to build applications even at the enterprise
 								level.
