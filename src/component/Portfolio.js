@@ -1,7 +1,7 @@
 import React from "react";
 
 import Batem from "../component/images/Bateme.png";
-//import Home from "../component/images/simplon.png"
+import Home from "../component/images/simplon_News_page.png"
 // FONT AWSOME IMPORT
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearchPlus } from "@fortawesome/free-solid-svg-icons";
@@ -21,8 +21,8 @@ const Portfolio = () => {
 					alt="paroise clon projet..."
 				/>
 				<p>
-					In this course, I'll lead you to step by step on how to use ReactJS
-					and Bootstrap by building the portfolio project.
+				In this static site you find e-commerce site with signup and login elements
+					
 				</p>
 				<b>Github:</b>{" "}
 				<a href="https://github.com/filmons/Client--front-react-JS"
@@ -63,7 +63,7 @@ const Portfolio = () => {
 			<>
 				<img
 					className="image-portfolio-popupbox"
-					src={Batem}
+					src={Home}
 					alt="paroise clon projet..."
 				/>
 				<p>
@@ -74,9 +74,9 @@ const Portfolio = () => {
 				<a
 					className="hyper-link"
 					onClick={() =>
-						window.open("https://github.com/filmons/Client--front-react-JS")
+						window.open("https://filmons.github.io/SimplonNews-Project-2/index.html")
 					}
-					href="https://github.com/filmons/Client--front-react-JS"
+					href="https://filmons.github.io/SimplonNews-Project-2/index.html"
 				>
 					Clickto see the site
 				</a>
@@ -85,9 +85,9 @@ const Portfolio = () => {
 				<a
 					className="hyper-link"
 					onClick={() =>
-						window.open("https://github.com/filmons/Client--front-react-JS")
+						window.open("https://filmons.github.io/SimplonNews-Project-2/index.html")
 					}
-					href="https://github.com/filmons/Client--front-react-JS"
+					href="https://filmons.github.io/SimplonNews-Project-2/index.html"
 				>
 					click to see the sit
 				</a>
