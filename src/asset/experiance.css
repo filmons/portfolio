@@ -1,14 +1,13 @@
-/* .vl {
-    border-left: 6px solid green;
-    height: 
-    500px;
-    position: absolute;
-    left: 50%;
-    top: 2rem;
-    margin-left: -3px;
-    top: 0;
-  } 
-  .experiance_header{
-    display: flex;
-    justify-content: center;
-  } */
+:root{
+  --primery-white:#ffffff;
+  --primery-orange:#f9ab00;
+  --primery-grey:#ccd1d9;
+  --primery-dark-grey:#666666;
+  --primery-light-grey:#f4f4f4;
+  --primery-dark:rgb(52, 59, 68);
+  --primery-red: #ef4035;
+  --primery-hover-red: #f33501;
+  --primery-blak:#000000;
+  --primery-tranceparent-blak:rgba(0, 0, 0, 0.7);
+  --primery-success:#62ff19;
+}
