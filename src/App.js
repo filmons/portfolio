@@ -1,7 +1,7 @@
 import React, { } from "react";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Particles from "react-particles-js";
+
 import "./component/Navbar";
 import Navbar from "./component/Navbar";
 import Header from "./component/Header";
@@ -19,26 +19,7 @@ import Footer from "./component/Footer";
 function App() {
 	return (
 		<>
-			<Particles
-			className="partilcles-canvas"
-				params={{
-					particles: {
-						number: {
-							value: 200,
-							density: {
-								enable: true,
-								value_area: 1000,
-							},
-						},
-						shape: {
-							type: "square",
-							Stroke: {
-								color: "#FEA82F",
-							},
-						},
-					},
-				}}
-			/>
+		
 
 			<Navbar />
 			<Header />
