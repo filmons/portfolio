@@ -65,6 +65,34 @@ const Serviecs = () => {
 							</p>
 						</div>
 					</div>
+					<div className="col-lg-3 col-md-6  col-sm-6">
+						<div className="box">
+							<div className="circle">
+								<FontAwesomeIcon className="icon" icon={faReact} size="2x" />{" "}
+							</div>
+
+							<h3>Devops</h3>
+							<p>
+								I am using React, it is a JavaScript library for building user
+								interfaces. React makes it easy for you to create rich user
+								interfaces.
+							</p>
+						</div>
+					</div>
+					<div className="col-lg-3 col-md-6  col-sm-6">
+						<div className="box">
+							<div className="circle">
+								<FontAwesomeIcon className="icon" icon={faReact} size="2x" />{" "}
+							</div>
+
+							<h3>QA quality assurance</h3>
+							<p>
+								I am using React, it is a JavaScript library for building user
+								interfaces. React makes it easy for you to create rich user
+								interfaces.
+							</p>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
