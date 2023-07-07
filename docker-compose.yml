@@ -1,0 +1,10 @@
+version: "3.2"
+
+services:
+  app:
+    image: dockerized-react
+    restart: always
+    volumes:
+      - ./~/portfolio:/var/www/html
+    ports:
+      - 51.91.103.124:3000:3000
