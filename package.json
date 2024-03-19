@@ -1,6 +1,6 @@
 {
-  "homepage": "https://filmons.github.io/Filmon-seare/",
-  "name": "outil_de_gestion",
+ 
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -10,8 +10,8 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
-    "@fortawesome/react-fontawesome": "1.2.36",
-    "@react-facebook-login": "4.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.15",
+    "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -39,6 +39,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm build ",
+    "deploy": "gh-pages -b main -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
