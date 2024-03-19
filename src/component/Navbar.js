@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css";
-import logo from "../component/logo.png";
+// import logo from "../component/logo.png";
 import {Link} from"react-scroll"
 // import fontAwsome
 
