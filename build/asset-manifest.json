@@ -1,20 +1,19 @@
 {
   "files": {
     "main.css": "/Filmon-seare/static/css/main.363133b4.css",
-    "main.js": "/Filmon-seare/static/js/main.81a979df.js",
+    "main.js": "/Filmon-seare/static/js/main.176f9a36.js",
     "static/media/Bateme.png": "/Filmon-seare/static/media/Bateme.9decca57062cccc42695.png",
     "static/media/christopher.png": "/Filmon-seare/static/media/christopher.9decca57062cccc42695.png",
     "static/media/simplon_News_page.png": "/Filmon-seare/static/media/simplon_News_page.c320ccba1e417f5cadd2.png",
     "static/media/abut.png": "/Filmon-seare/static/media/abut.8dbd0f875b2727dac329.png",
     "static/media/grid.jpg": "/Filmon-seare/static/media/grid.0cfa257999a5d6a3e1c5.jpg",
-    "static/media/logo.png": "/Filmon-seare/static/media/logo.e36b132ec37829820016.png",
     "static/media/Avatar3.png": "/Filmon-seare/static/media/Avatar3.fd85c9a98b510d9bed20.png",
     "index.html": "/Filmon-seare/index.html",
     "main.363133b4.css.map": "/Filmon-seare/static/css/main.363133b4.css.map",
-    "main.81a979df.js.map": "/Filmon-seare/static/js/main.81a979df.js.map"
+    "main.176f9a36.js.map": "/Filmon-seare/static/js/main.176f9a36.js.map"
   },
   "entrypoints": [
     "static/css/main.363133b4.css",
-    "static/js/main.81a979df.js"
+    "static/js/main.176f9a36.js"
   ]
 }
